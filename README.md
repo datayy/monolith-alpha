@@ -36,6 +36,8 @@ predefined test user login and password,
 - user4 (user4@test.com, user4)
 - user5 (user5@test.com, user5)
 
+to add more or change the predefined user accounts, you will need to edit `run-stack.conf` file. As for Docker container application, you will need to recompile yourself a new container with the `Dockerfile` provided.
+
 Enjoy!
 
 ---
