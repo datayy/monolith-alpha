@@ -22,7 +22,7 @@ run the container at background,
 
 ```bash
 $ docker run -it -d -p 8787:8787 -v /path/to/your/project/folder:/opt/monolith/workspace loouislow81/monolith-alpha:latest
-
+```
 
 # usage
 
