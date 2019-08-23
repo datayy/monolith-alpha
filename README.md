@@ -1,5 +1,9 @@
 # monolith (alpha) 0.8.3
 
+<p align="left">
+  <img src="Screenshot_1.jpeg" width="420">
+</p>
+
 All-purpose cloud IDE packed with peer environment, linters, debuggers, compilers, terminal, git, offline-env, etc.
 
 **Recommended** to use the Docker container application.
